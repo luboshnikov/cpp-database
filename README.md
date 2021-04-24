@@ -1,4 +1,4 @@
-# cpp-yellow-belt-project
+# cpp-database
 **Final project for cpp yellow course on Coursera**
 
 https://www.coursera.org/learn/c-plus-plus-yellow
